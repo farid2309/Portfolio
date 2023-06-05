@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="211.44939mm"
+   height="211.44981mm"
+   viewBox="0 0 211.44939 211.44981"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="растровый.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="457.9934"
+     inkscape:cy="628.98654"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="-108.81371,101.41277"
+       orientation="0,-1"
+       id="guide1678"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="93.089509,99.993421"
+       orientation="1,0"
+       id="guide1680"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:menu="Textures"
+       inkscape:label="Watercolor"
+       inkscape:menu-tooltip="Cloudy watercolor effect"
+       height="1.690167"
+       y="-0.3450835"
+       width="1.690167"
+       x="-0.3450835"
+       style="color-interpolation-filters:sRGB"
+       id="filter7218">
+      <feGaussianBlur
+         stdDeviation="15"
+         result="result8"
+         id="feGaussianBlur7200" />
+      <feTurbulence
+         seed="27"
+         result="result7"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.025"
+         id="feTurbulence7202" />
+      <feComposite
+         in2="result8"
+         result="result6"
+         operator="over"
+         in="result7"
+         id="feComposite7204" />
+      <feColorMatrix
+         result="result9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -4 "
+         id="feColorMatrix7206" />
+      <feDisplacementMap
+         in="result7"
+         in2="result9"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="45"
+         result="result4"
+         id="feDisplacementMap7208" />
+      <feComposite
+         in2="result4"
+         result="result2"
+         operator="in"
+         in="result8"
+         id="feComposite7210" />
+      <feComposite
+         result="fbSourceGraphic"
+         in="result2"
+         operator="in"
+         in2="result9"
+         id="feComposite7212" />
+      <feComposite
+         operator="arithmetic"
+         k2="1"
+         k1="0.5"
+         in="fbSourceGraphic"
+         in2="fbSourceGraphic"
+         result="result91"
+         id="feComposite7214"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in="fbSourceGraphic"
+         mode="multiply"
+         in2="result91"
+         id="feBlend7216" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 2"
+     transform="translate(-6.9750001,-40.414569)">
+    <g
+       id="g7146">
+      <circle
+         style="fill:#990011;fill-opacity:1;stroke-width:0.264583;filter:url(#filter7218)"
+         id="path1566"
+         cx="102.16129"
+         cy="152.16129"
+         r="52.161289"
+         transform="matrix(1.1992215,0,0,1.1992215,-9.814549,-36.335605)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:#fcf6f5;stroke-width:0.264583;stroke-opacity:1"
+         id="rect3347"
+         width="185.93549"
+         height="46.838711"
+         x="-243.19366"
+         y="21.562645"
+         inkscape:label="rect3347"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:35.2778px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#fcf6f5;fill-opacity:1;stroke-width:0.264583"
+         x="68.548042"
+         y="160.42763"
+         id="text2463"><tspan
+           sodipodi:role="line"
+           id="tspan2461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:NSimSun;-inkscape-font-specification:NSimSun;fill:#fcf6f5;fill-opacity:1;stroke-width:0.264583"
+           x="68.548042"
+           y="160.42763">friday.x</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:#fcf6f5;stroke-width:0.296549;stroke-opacity:1"
+         id="rect7158"
+         width="185.90352"
+         height="58.850368"
+         x="23.790176"
+         y="118.54256" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:#fcf6f5;stroke-width:0.296549;stroke-opacity:1"
+         id="rect7160"
+         width="185.90352"
+         height="58.850368"
+         x="-240.91949"
+         y="119.43308"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>
