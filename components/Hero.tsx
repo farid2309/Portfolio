@@ -9,7 +9,7 @@ import { shadows } from "@mui/system";
 
 const Hero = () => {
   return (
-    <div className="h-[100vh] w-[100vw] grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-1 md:gap-3 xl:gap-5">
+    <div className="h-[100vh] w-[100vw] grid grid-cols-1 md:grid-cols-3 xl:grid-cols-3 gap-1 md:gap-3 xl:gap-5">
       {/* Azerbazalt */}
       <motion.div
         initial={{
